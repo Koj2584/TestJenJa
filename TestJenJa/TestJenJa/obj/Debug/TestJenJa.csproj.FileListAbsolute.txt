@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\bin\Debug\TestJenJa.exe.config
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\bin\Debug\TestJenJa.exe
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\bin\Debug\TestJenJa.pdb
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.csproj.AssemblyReference.cache
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.Form1.resources
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.Properties.Resources.resources
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.exe
+G:\Dokumenty\Csharp\TestJenJa\TestJenJa\obj\Debug\TestJenJa.pdb
